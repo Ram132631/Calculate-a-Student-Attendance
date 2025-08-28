@@ -1,6 +1,5 @@
 # Calculate-a-Student-Attendance
 NAME : S.RAMANATHAN,
-OUTPUT:
-      <img width="373" height="61" alt="Image" src="https://github.com/user-attachments/assets/18376026-bf93-4d1e-b160-3f07440aad93" />
+<img width="430" height="180" alt="Image" src="https://github.com/user-attachments/assets/5b87ad07-ddb8-4557-8264-0ccaaa2d4db2" />
       
 
